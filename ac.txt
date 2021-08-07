@@ -1,17 +1,4 @@
-<?php
-
-session_start();
-
-
-if (!isset($_SESSION["aid"])) {
-  
-
-  header("index.php");
-}
-
-include"database.php";
-
-?>
+sanjee is back to the form
 
 
 <!DOCTYPE html>
